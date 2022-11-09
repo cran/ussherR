@@ -1,0 +1,16 @@
+9eaf273dfe7b10223d5a09ab7fcd652b *DESCRIPTION
+76304612a009c7bc7fbc62eacecf926a *LICENSE
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+8c391a1749feac0ce8ff0a738c332ec1 *NEWS.md
+d41d8cd98f00b204e9800998ecf8427e *R/ussh.R
+2f1bc2de3b35ebd81e623bd857846b48 *R/ussher.R
+89cea89c576482cad7512998dab589a0 *R/usshfull.R
+cb4129225a7d3488113fa8323d8575b6 *R/usshraw.R
+165544dba2cd7d7988da6bacea7bde79 *README.md
+87d3c9bfc27e4f91e526bb82619b94b3 *data/ussher.rda
+eb15bc8c09e7d6c33f65d0662b5df28e *data/usshfull.rda
+42e391e9a23465f1c503f71e1c2f1182 *data/usshraw.rda
+76304612a009c7bc7fbc62eacecf926a *inst/LICENSE.txt
+fb6cadcd7a5db4ad4dcfa4090e096598 *man/ussher.Rd
+d62e03892b8f33655bba690f08ce77f8 *man/usshfull.Rd
+23ec63bb854e3b644a02ca90e1334deb *man/usshraw.Rd
